@@ -1,0 +1,526 @@
+{'Denmark': {'Damehandboldligaen': [[{'date': '04/01/21',
+                                      'id': 'ID: 20180',
+                                      'name': 'Ajax Copenhagen W vs Viborg HK '
+                                              'W',
+                                      'odds': [['Ajax Copenhagen W', '7.93'],
+                                               ['Draw', '14.58'],
+                                               ['Viborg HK W', '1.10']],
+                                      'time': '22:00'}]]},
+ 'France': {'LFH Division 1, Women': [[{'date': '06/01/21',
+                                        'id': 'ID: 21461',
+                                        'name': 'Brest Bretagne Handball W vs '
+                                                'Metz Handball W',
+                                        'odds': [['Brest Bretagne Handball W',
+                                                  '1.60'],
+                                                 ['Draw', '8.25'],
+                                                 ['Metz Handball W', '2.83']],
+                                        'time': '22:30'}]]},
+ 'International': {'Champions League, Women, Group A': [[{'date': '09/01/21',
+                                                          'id': 'ID: 20788',
+                                                          'name': 'FTC W vs '
+                                                                  'CSM '
+                                                                  'Bucuresti W',
+                                                          'odds': [['FTC W',
+                                                                    '2.17'],
+                                                                   ['Draw',
+                                                                    '7.74'],
+                                                                   ['CSM '
+                                                                    'Bucuresti '
+                                                                    'W',
+                                                                    '1.96']],
+                                                          'time': '18:00'},
+                                                         {'date': '09/01/21',
+                                                          'id': 'ID: 20660',
+                                                          'name': 'Vipers '
+                                                                  'Kristiansand '
+                                                                  'W vs Team '
+                                                                  'Esbjerg W',
+                                                          'odds': [['Vipers '
+                                                                    'Kristiansand '
+                                                                    'W',
+                                                                    '1.21'],
+                                                                   ['Draw',
+                                                                    '11.52'],
+                                                                   ['Team '
+                                                                    'Esbjerg W',
+                                                                    '5.38']],
+                                                          'time': '20:00'},
+                                                         {'date': '10/01/21',
+                                                          'id': 'ID: 21084',
+                                                          'name': 'SG Bbm '
+                                                                  'Bietigheim '
+                                                                  'W vs RK '
+                                                                  'Krim '
+                                                                  'Mercator W',
+                                                          'odds': [['SG Bbm '
+                                                                    'Bietigheim '
+                                                                    'W',
+                                                                    '1.37'],
+                                                                   ['Draw',
+                                                                    '9.38'],
+                                                                   ['RK Krim '
+                                                                    'Mercator '
+                                                                    'W',
+                                                                    '3.80']],
+                                                          'time': '16:00'},
+                                                         {'date': '10/01/21',
+                                                          'id': 'ID: 21962',
+                                                          'name': 'Metz '
+                                                                  'Handball W '
+                                                                  'vs NP GK '
+                                                                  'Rostov-Don '
+                                                                  'W',
+                                                          'odds': [['Metz '
+                                                                    'Handball '
+                                                                    'W',
+                                                                    '1.85'],
+                                                                   ['Draw',
+                                                                    '7.73'],
+                                                                   ['NP GK '
+                                                                    'Rostov-Don '
+                                                                    'W',
+                                                                    '2.32']],
+                                                          'time': '18:00'}]],
+                   'Champions League, Women, Group B': [[{'date': '09/01/21',
+                                                          'id': 'ID: 20845',
+                                                          'name': 'HC Odense W '
+                                                                  'vs Podravka '
+                                                                  'Vegeta W',
+                                                          'odds': [['HC Odense '
+                                                                    'W',
+                                                                    '1.08'],
+                                                                   ['Draw',
+                                                                    '16.18'],
+                                                                   ['Podravka '
+                                                                    'Vegeta W',
+                                                                    '8.99']],
+                                                          'time': '18:00'},
+                                                         {'date': '09/01/21',
+                                                          'id': 'ID: 21146',
+                                                          'name': 'CSKA Moscow '
+                                                                  'W vs Brest '
+                                                                  'Bretagne '
+                                                                  'Handball W',
+                                                          'odds': [['CSKA '
+                                                                    'Moscow W',
+                                                                    '2.01'],
+                                                                   ['Draw',
+                                                                    '7.73'],
+                                                                   ['Brest '
+                                                                    'Bretagne '
+                                                                    'Handball '
+                                                                    'W',
+                                                                    '2.11']],
+                                                          'time': '18:00'},
+                                                         {'date': '09/01/21',
+                                                          'id': 'ID: 21405',
+                                                          'name': 'ZRK '
+                                                                  'Buducnost '
+                                                                  'T-Mobile W '
+                                                                  'vs BVB '
+                                                                  'Dortmund W',
+                                                          'odds': [['ZRK '
+                                                                    'Buducnost '
+                                                                    'T-Mobile '
+                                                                    'W',
+                                                                    '1.18'],
+                                                                   ['Draw',
+                                                                    '12.14'],
+                                                                   ['BVB '
+                                                                    'Dortmund '
+                                                                    'W',
+                                                                    '5.94']],
+                                                          'time': '20:00'},
+                                                         {'date': '10/01/21',
+                                                          'id': 'ID: 21443',
+                                                          'name': 'HCM Ramnicu '
+                                                                  'Valcea W vs '
+                                                                  'Gyori Audi '
+                                                                  'Eto KC W',
+                                                          'odds': [['HCM '
+                                                                    'Ramnicu '
+                                                                    'Valcea W',
+                                                                    '11.81'],
+                                                                   ['Draw',
+                                                                    '19.51'],
+                                                                   ['Gyori '
+                                                                    'Audi Eto '
+                                                                    'KC W',
+                                                                    '1.04']],
+                                                          'time': '18:00'}]],
+                   'EHF Cup, Women, Group A': [[{'date': '09/01/21',
+                                                 'id': 'ID: 21563',
+                                                 'name': 'Herning-Ikast W vs '
+                                                         'Zvezda W',
+                                                 'odds': [['Herning-Ikast W',
+                                                           '1.44'],
+                                                          ['Draw', '9.00'],
+                                                          ['Zvezda W', '3.39']],
+                                                 'time': '15:30'},
+                                                {'date': '10/01/21',
+                                                 'id': 'ID: 20300',
+                                                 'name': 'Vaci Nkse W vs Issy '
+                                                         'Paris W',
+                                                 'odds': [['Vaci Nkse W',
+                                                           '2.25'],
+                                                          ['Draw', '7.92'],
+                                                          ['Issy Paris W',
+                                                           '1.89']],
+                                                 'time': '16:00'}]],
+                   'EHF Cup, Women, Group B': [[{'date': '09/01/21',
+                                                 'id': 'ID: 20531',
+                                                 'name': 'Handball Club Lada W '
+                                                         'vs Nantes Loire '
+                                                         'Atlantique HB W',
+                                                 'odds': [['Handball Club Lada '
+                                                           'W',
+                                                           '1.12'],
+                                                          ['Draw', '14.10'],
+                                                          ['Nantes Loire '
+                                                           'Atlantique HB W',
+                                                           '7.44']],
+                                                 'time': '18:00'},
+                                                {'date': '09/01/21',
+                                                 'id': 'ID: 20578',
+                                                 'name': 'Kastamonu Belediyesi '
+                                                         'W vs MKS Perla '
+                                                         'Lublin W',
+                                                 'odds': [['Kastamonu '
+                                                           'Belediyesi W',
+                                                           '1.07'],
+                                                          ['Draw', '17.15'],
+                                                          ['MKS Perla Lublin W',
+                                                           '9.73']],
+                                                 'time': '18:00'}]],
+                   'EHF Cup, Women, Group C': [[{'date': '09/01/21',
+                                                 'id': 'ID: 21453',
+                                                 'name': 'HC Minaur Baia Mare '
+                                                         'vs Storhamar '
+                                                         'Haandball Elite W',
+                                                 'odds': [['HC Minaur Baia '
+                                                           'Mare',
+                                                           '1.14'],
+                                                          ['Draw', '13.47'],
+                                                          ['Storhamar '
+                                                           'Haandball Elite W',
+                                                           '6.74']],
+                                                 'time': '16:00'},
+                                                {'date': '10/01/21',
+                                                 'id': 'ID: 21012',
+                                                 'name': 'Thuringer HC W vs '
+                                                         'Astrakhanochka '
+                                                         'Astrakhan W',
+                                                 'odds': [['Thuringer HC W',
+                                                           '1.60'],
+                                                          ['Draw', '8.25'],
+                                                          ['Astrakhanochka '
+                                                           'Astrakhan W',
+                                                           '2.83']],
+                                                 'time': '16:00'}]],
+                   'EHF Cup, Women, Group D': [[{'date': '09/01/21',
+                                                 'id': 'ID: 20921',
+                                                 'name': 'Siofok Kc-Galerius '
+                                                         'F.W vs HC Kuban '
+                                                         'Krasnodar W',
+                                                 'odds': [['Siofok Kc-Galerius '
+                                                           'F.W',
+                                                           '1.05'],
+                                                          ['Draw', '18.75'],
+                                                          ['HC Kuban Krasnodar '
+                                                           'W',
+                                                           '10.79']],
+                                                 'time': '20:00'},
+                                                {'date': '10/01/21',
+                                                 'id': 'ID: 20461',
+                                                 'name': 'HC Dunarea Braila W '
+                                                         'vs CJF Fleury Les '
+                                                         'Aubrais W',
+                                                 'odds': [['HC Dunarea Braila '
+                                                           'W',
+                                                           '2.25'],
+                                                          ['Draw', '7.92'],
+                                                          ['CJF Fleury Les '
+                                                           'Aubrais W',
+                                                           '1.89']],
+                                                 'time': '16:00'}]],
+                   'European Championship Men, Qualification Group 1': [[{'date': '05/01/21',
+                                                                          'id': 'ID: '
+                                                                                '20447',
+                                                                          'name': 'Serbia '
+                                                                                  'vs '
+                                                                                  'France',
+                                                                          'odds': [['Serbia',
+                                                                                    '5.90'],
+                                                                                   ['Draw',
+                                                                                    '12.06'],
+                                                                                   ['France',
+                                                                                    '1.18']],
+                                                                          'time': '19:00'}]],
+                   'European Championship, Qualification Group 2': [[{'date': '06/01/21',
+                                                                      'id': 'ID: '
+                                                                            '20666',
+                                                                      'name': 'Austria '
+                                                                              'vs '
+                                                                              'Germany',
+                                                                      'odds': [['Austria',
+                                                                                '4.74'],
+                                                                               ['Draw',
+                                                                                '10.57'],
+                                                                               ['Germany',
+                                                                                '1.26']],
+                                                                      'time': '15:45'},
+                                                                     {'date': '06/01/21',
+                                                                      'id': 'ID: '
+                                                                            '21719',
+                                                                      'name': 'Estonia '
+                                                                              'vs '
+                                                                              'Bosnia '
+                                                                              '& '
+                                                                              'Herzegovina',
+                                                                      'odds': [['Estonia',
+                                                                                '3.39'],
+                                                                               ['Draw',
+                                                                                '9.00'],
+                                                                               ['Bosnia '
+                                                                                '&amp; '
+                                                                                'Herzegovina',
+                                                                                '1.44']],
+                                                                      'time': '21:00'}]],
+                   'European Championship, Qualification Group 3': [[{'date': '06/01/21',
+                                                                      'id': 'ID: '
+                                                                            '21552',
+                                                                      'name': 'Faroe '
+                                                                              'Islands '
+                                                                              'vs '
+                                                                              'Czech '
+                                                                              'Republic',
+                                                                      'odds': [['Faroe '
+                                                                                'Islands',
+                                                                                '4.64'],
+                                                                               ['Draw',
+                                                                                '9.95'],
+                                                                               ['Czech '
+                                                                                'Republic',
+                                                                                '1.28']],
+                                                                      'time': '23:00'}]],
+                   'European Championship, Qualification Group 5': [[{'date': '06/01/21',
+                                                                      'id': 'ID: '
+                                                                            '21986',
+                                                                      'name': 'Turkey '
+                                                                              'vs '
+                                                                              'Poland',
+                                                                      'odds': [['Turkey',
+                                                                                '3.58'],
+                                                                               ['Draw',
+                                                                                '9.34'],
+                                                                               ['Poland',
+                                                                                '1.40']],
+                                                                      'time': '21:00'},
+                                                                     {'date': '06/01/21',
+                                                                      'id': 'ID: '
+                                                                            '20783',
+                                                                      'name': 'Netherlands '
+                                                                              'vs '
+                                                                              'Slovenia',
+                                                                      'odds': [['Netherlands',
+                                                                                '3.66'],
+                                                                               ['Draw',
+                                                                                '9.27'],
+                                                                               ['Slovenia',
+                                                                                '1.39']],
+                                                                      'time': '22:00'}]],
+                   'European Championship, Qualification Group 6': [[{'date': '05/01/21',
+                                                                      'id': 'ID: '
+                                                                            '21857',
+                                                                      'name': 'Belarus '
+                                                                              'vs '
+                                                                              'Norway',
+                                                                      'odds': [['Belarus',
+                                                                                '1.84'],
+                                                                               ['Draw',
+                                                                                '8.18'],
+                                                                               ['Norway',
+                                                                                '2.30']],
+                                                                      'time': '17:30'},
+                                                                     {'date': '07/01/21',
+                                                                      'id': 'ID: '
+                                                                            '21412',
+                                                                      'name': 'Italy '
+                                                                              'vs '
+                                                                              'Latvia',
+                                                                      'odds': [['Italy',
+                                                                                '3.39'],
+                                                                               ['Draw',
+                                                                                '9.00'],
+                                                                               ['Latvia',
+                                                                                '1.44']],
+                                                                      'time': '20:00'}]],
+                   'European Championship, Qualification Group 8': [[{'date': '06/01/21',
+                                                                      'id': 'ID: '
+                                                                            '21935',
+                                                                      'name': 'Montenegro '
+                                                                              'vs '
+                                                                              'Sweden',
+                                                                      'odds': [['Montenegro',
+                                                                                '4.13'],
+                                                                               ['Draw',
+                                                                                '9.68'],
+                                                                               ['Sweden',
+                                                                                '1.33']],
+                                                                      'time': '21:00'}]],
+                   'Int. Friendly Games': [[{'date': '06/01/21',
+                                             'id': 'ID: 21261',
+                                             'name': 'Russia vs Argentina',
+                                             'odds': [['Russia', '1.53'],
+                                                      ['Draw', '8.18'],
+                                                      ['Argentina', '3.07']],
+                                             'time': '16:00'},
+                                            {'date': '07/01/21',
+                                             'id': 'ID: 21090',
+                                             'name': 'Denmark vs Norway',
+                                             'odds': [['Denmark', '1.60'],
+                                                      ['Draw', '8.53'],
+                                                      ['Norway', '2.79']],
+                                             'time': '22:15'}]],
+                   'World Championship, Group A': [[{'date': '15/01/21',
+                                                     'id': 'ID: 20225',
+                                                     'name': 'Hungary vs Cape '
+                                                             'Verde',
+                                                     'odds': [['Hungary',
+                                                               '1.03'],
+                                                              ['Draw', '17.67'],
+                                                              ['Cape Verde',
+                                                               '13.06']],
+                                                     'time': '22:30'}]],
+                   'World Championship, Group B': [[{'date': '15/01/21',
+                                                     'id': 'ID: 20506',
+                                                     'name': 'Spain vs Brazil',
+                                                     'odds': [['Spain', '1.13'],
+                                                              ['Draw', '12.04'],
+                                                              ['Brazil',
+                                                               '7.69']],
+                                                     'time': '20:00'},
+                                                    {'date': '15/01/21',
+                                                     'id': 'ID: 21534',
+                                                     'name': 'Tunisia vs '
+                                                             'Poland',
+                                                     'odds': [['Tunisia',
+                                                               '1.69'],
+                                                              ['Draw', '7.66'],
+                                                              ['Poland',
+                                                               '2.66']],
+                                                     'time': '22:30'}]],
+                   'World Championship, Group C': [[{'date': '15/01/21',
+                                                     'id': 'ID: 21232',
+                                                     'name': 'Qatar vs Angola',
+                                                     'odds': [['Qatar', '1.08'],
+                                                              ['Draw', '13.30'],
+                                                              ['Angola',
+                                                               '9.72']],
+                                                     'time': '17:30'},
+                                                    {'date': '15/01/21',
+                                                     'id': 'ID: 21240',
+                                                     'name': 'Croatia vs Japan',
+                                                     'odds': [['Croatia',
+                                                               '1.06'],
+                                                              ['Draw', '14.18'],
+                                                              ['Japan',
+                                                               '11.34']],
+                                                     'time': '20:00'}]],
+                   'World Championship, Group D': [[{'date': '15/01/21',
+                                                     'id': 'ID: 20810',
+                                                     'name': 'Argentina vs DR '
+                                                             'Congo',
+                                                     'odds': [['Argentina',
+                                                               '1.03'],
+                                                              ['Draw', '17.67'],
+                                                              ['DR Congo',
+                                                               '13.06']],
+                                                     'time': '20:00'},
+                                                    {'date': '15/01/21',
+                                                     'id': 'ID: 20997',
+                                                     'name': 'Denmark vs '
+                                                             'Bahrain',
+                                                     'odds': [['Denmark',
+                                                               '1.03'],
+                                                              ['Draw', '16.63'],
+                                                              ['Bahrain',
+                                                               '13.82']],
+                                                     'time': '22:30'}]],
+                   'World Championship, Group E': [[{'date': '14/01/21',
+                                                     'id': 'ID: 21546',
+                                                     'name': 'Austria vs USA',
+                                                     'odds': [['Austria',
+                                                               '1.04'],
+                                                              ['Draw', '16.21'],
+                                                              ['USA', '13.12']],
+                                                     'time': '20:00'},
+                                                    {'date': '14/01/21',
+                                                     'id': 'ID: 21639',
+                                                     'name': 'Norway vs France',
+                                                     'odds': [['Norway',
+                                                               '2.20'],
+                                                              ['Draw', '7.67'],
+                                                              ['France',
+                                                               '1.94']],
+                                                     'time': '22:30'}]],
+                   'World Championship, Group F': [[{'date': '14/01/21',
+                                                     'id': 'ID: 20692',
+                                                     'name': 'Algeria vs '
+                                                             'Morocco',
+                                                     'odds': [['Algeria',
+                                                               '1.26'],
+                                                              ['Draw', '9.79'],
+                                                              ['Morocco',
+                                                               '4.95']],
+                                                     'time': '20:00'},
+                                                    {'date': '14/01/21',
+                                                     'id': 'ID: 21246',
+                                                     'name': 'Portugal vs '
+                                                             'Iceland',
+                                                     'odds': [['Portugal',
+                                                               '1.85'],
+                                                              ['Draw', '7.44'],
+                                                              ['Iceland',
+                                                               '2.36']],
+                                                     'time': '22:30'}]],
+                   'World Championship, Group G': [[{'date': '13/01/21',
+                                                     'id': 'ID: 21768',
+                                                     'name': 'Egypt vs Chile',
+                                                     'odds': [['Egypt', '1.04'],
+                                                              ['Draw', '16.21'],
+                                                              ['Chile',
+                                                               '13.12']],
+                                                     'time': '20:00'},
+                                                    {'date': '14/01/21',
+                                                     'id': 'ID: 21655',
+                                                     'name': 'Sweden vs Czech '
+                                                             'Republic',
+                                                     'odds': [['Sweden',
+                                                               '1.23'],
+                                                              ['Draw', '9.52'],
+                                                              ['Czech Republic',
+                                                               '5.40']],
+                                                     'time': '22:30'}]],
+                   'World Championship, Group H': [[{'date': '14/01/21',
+                                                     'id': 'ID: 21055',
+                                                     'name': 'Belarus vs '
+                                                             'Russia',
+                                                     'odds': [['Belarus',
+                                                               '1.78'],
+                                                              ['Draw', '7.65'],
+                                                              ['Russia',
+                                                               '2.45']],
+                                                     'time': '17:30'},
+                                                    {'date': '14/01/21',
+                                                     'id': 'ID: 21971',
+                                                     'name': 'Slovenia vs '
+                                                             'Republic of '
+                                                             'Korea',
+                                                     'odds': [['Slovenia',
+                                                               '1.07'],
+                                                              ['Draw', '14.66'],
+                                                              ['Republic of '
+                                                               'Korea',
+                                                               '10.29']],
+                                                     'time': '20:00'}]]}}
